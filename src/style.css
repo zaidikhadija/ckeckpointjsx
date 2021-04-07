@@ -1,0 +1,35 @@
+.titleRed{
+    color: red;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: rgb(255, 192, 192);
+
+}
+.cat{
+    border-radius: 50%;
+width:450px;
+height: 400px;
+}
+.dog{
+    border-radius: 50%;
+    width:450px;
+    height: 400px;
+}
+video{
+    align-items: center;
+    background-color: pink;
+    border-radius: 20%;
+    border: solid 10px rgb(226, 145, 190);
+    justify-content: space-between;
+    }
+    .hautPage{
+        
+    background-color: greenyellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    white-space: pre-line;
+    
+    }
